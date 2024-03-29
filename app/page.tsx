@@ -1,4 +1,4 @@
-import { BackgroundBeams } from "@/components/ui/background-beams";
+// import { BackgroundBeams } from "@/components/ui/background-beams";
 
 export default function Home() {
   return (
@@ -9,7 +9,7 @@ export default function Home() {
           <h5 className="text-xl">Coming soon!</h5>
         </div>
       </div>
-      <BackgroundBeams />
+      {/* <BackgroundBeams /> */}
     </div>
   );
 }
